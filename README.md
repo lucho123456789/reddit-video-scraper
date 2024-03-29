@@ -14,9 +14,7 @@
 
 <h2>use case example</h2>
 <code>
-  if __name__ == "__main__":
 
-    # use case example
 
     # set reddit video url
     reddit_url = 'https://www.reddit.com/r/argentina/comments/1avxz84/trenes_argentinos_pierde_3_millones_de_d%C3%B3lares/'
