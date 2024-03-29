@@ -1,4 +1,4 @@
 # reddit-video-scraper
 
-[![PyPi](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[![PyPi](https://img.shields.io/badge/off-descargarbot?logo=github&label=status&color=red
 )](https://pypi.org/project/yt-dlp "PyPi")
