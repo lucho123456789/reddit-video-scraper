@@ -1,4 +1,3 @@
 # reddit-video-scraper
 
-[![Working](https://descargarbot/v/multiples_files.png)](https://pypi.org/project/yt-dlp "Status")
-[![PyPi](https://descargarbot/v/multiples_files.png)](https://pypi.org/project/yt-dlp "PyPi")
+[![PyPi](https://img.shields.io/badge/working%20?logo=%F0%9F%A4%96&label=algo)](https://pypi.org/project/yt-dlp "PyPi")
