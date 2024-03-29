@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![DescargarBot](https://www.descargarbot.com/v/multiples_files.png)
+![DescargarBot](https://www.descargarbot.com/v/download-github.png)
 
 [![Reddit](https://img.shields.io/badge/off-descargarbot?logo=github&label=status&color=red
 )](https://github.com/lucho123456789/reddit-video-scraper "Reddit")
