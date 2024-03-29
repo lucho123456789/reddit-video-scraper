@@ -12,3 +12,39 @@
 <code>Requests</code>
 <code>FFmpeg</code>
 
+<h2>use case example</h2>
+<code>
+  if __name__ == "__main__":
+
+    # use case example
+
+    # set reddit video url
+    reddit_url = 'https://www.reddit.com/r/argentina/comments/1avxz84/trenes_argentinos_pierde_3_millones_de_d%C3%B3lares/'
+    #reddit_url = 'https://www.reddit.com/r/argentina/comments/1bdev8u/me_podes_mostrar/'
+    
+    # create scraper video object
+    reddit_video = RedditVideoScraper()
+
+    # set the proxy (optional, u can run it with ur own ip)
+    #reddit_video.set_proxies('<your http proxy>', '<your https proxy')
+
+    # get video info from url
+    reddit_video_info = reddit_video.get_video_json_by_url(reddit_url)
+
+    # get the video details
+    reddit_video_urls, video_thumbnail, video_nsfw = reddit_video.reddit_video_details(reddit_video_info)
+
+    # get the video filesize
+    video_size = reddit_video.get_video_filesize(reddit_video_urls['video_url'], reddit_video_urls['audio_url'])
+    print(f'filesize: ~{video_size} bytes')
+
+    # download the video and audio
+    download_details = reddit_video.download(reddit_video_urls)
+
+    # join the video and audio
+    # remember install ffmpeg if u dont have it
+    downloaded_video_list = reddit_video.ffmpeg_mux(download_details)
+
+    reddit_video.reddit_session.close()
+</code>
+
