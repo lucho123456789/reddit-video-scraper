@@ -7,4 +7,7 @@
 )](https://github.com/lucho123456789/reddit-video-scraper/issues "Reddit")
 </div>
 
+<h1>dependencies</h1>
+<code>python 3.9+ </code>
+<code>Requests </code>
 
