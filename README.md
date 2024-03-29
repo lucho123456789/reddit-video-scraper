@@ -16,8 +16,7 @@
 <code>
   
     # set reddit video url
-    reddit_url = 'https://www.reddit.com/r/argentina/comments/1avxz84/trenes_argentinos_pierde_3_millones_de_d%C3%B3lares/'
-    #reddit_url = 'https://www.reddit.com/r/argentina/comments/1bdev8u/me_podes_mostrar/'
+    reddit_url = 'ur reddit video url'
     
     # create scraper video object
     reddit_video = RedditVideoScraper()
