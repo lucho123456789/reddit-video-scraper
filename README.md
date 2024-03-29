@@ -7,12 +7,12 @@
 )](https://github.com/lucho123456789/reddit-video-scraper/issues "Reddit")
 </div>
 
-<h2>dependencies</h2>
+<h2>+dependencies</h2>
 <code>Python 3.9+</code>
 <code>Requests</code>
 <code>FFmpeg</code>
 
-<h3>use case example</h3>
+<h3>+use case example</h3>
 <code>
   
     # set reddit video url
@@ -44,4 +44,4 @@
     reddit_video.reddit_session.close()
 </code>
 
-<h3>installing dependencies</h3>
+<h3>+installing dependencies</h3>
