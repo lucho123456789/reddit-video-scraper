@@ -12,7 +12,7 @@
 <code>Requests</code>
 <code>FFmpeg</code>
 
-<h2>use case example</h2>
+<h3>use case example</h3>
 <code>
   
     # set reddit video url
@@ -44,3 +44,4 @@
     reddit_video.reddit_session.close()
 </code>
 
+<h3>installing dependencies</h3>
