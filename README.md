@@ -14,7 +14,8 @@
 
 <h2>use case example</h2>
 <code>
-    
+
+    #import the class RedditVideoScraper
     from .reddit_video_scraper import RedditVideoScraper
     
     # set reddit video url
