@@ -15,6 +15,8 @@
 <h2>use case example</h2>
 <code>
     
+    from .reddit_video_scraper import RedditVideoScraper
+    
     # set reddit video url
     reddit_url = 'ur reddit video url'
     
