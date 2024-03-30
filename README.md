@@ -44,4 +44,4 @@
     reddit_video.reddit_session.close()
 </code>
 
-<h3>installing dependencies</h3>
+<h2>installing dependencies</h2>
