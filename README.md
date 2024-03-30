@@ -13,7 +13,9 @@
 <code>FFmpeg</code>
 
 <h3>use case example</h3>
-<code># set reddit video url
+<code>
+    
+    # set reddit video url
     reddit_url = 'ur reddit video url'
     
     # create scraper video object
