@@ -16,7 +16,7 @@
 <code>
 
     #import the class RedditVideoScraper
-    from .reddit_video_scraper import RedditVideoScraper
+    from reddit_video_scraper import RedditVideoScraper
     
     # set reddit video url
     reddit_url = 'ur reddit video url'
