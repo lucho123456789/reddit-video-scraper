@@ -48,6 +48,7 @@
 </code>
 
 <h2>installing dependencies</h2>
+   <h3>requests</h3>h3
 <ul>
   <li> <h2> Linux </h2> </li>
   <code> pip install requests </code>
