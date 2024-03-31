@@ -49,9 +49,10 @@
 
 <h2>installing dependencies</h2>
 <ul>
-  <li> Linux </li>
+  <li> <h2> Linux </h2>h2</li>
   <code> pip install requests </code>
+  <br>
   <br>
   <li> MacOS </li>
   <li> Windows </li>
-</ul>ul
+</ul>
