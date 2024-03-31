@@ -48,3 +48,10 @@
 </code>
 
 <h2>installing dependencies</h2>
+<ul>
+  <li> Linux </li>
+  <code> pip install requests </code>
+  <br>
+  <li> MacOS </li>
+  <li> Windows </li>
+</ul>ul
