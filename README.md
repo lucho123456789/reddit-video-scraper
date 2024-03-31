@@ -58,6 +58,13 @@
   <li> <h3> Linux </h3> </li>
   <code> sudo apt install ffmpeg </code>
   <li> <h3>MacOS</h3> </li>
-    <a href="https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/" data-hovercard-type="issue" > tutorial</a>
+    you can use this <a href="https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/" > tutorial</a>
   <li> <h3>Windows</h3> </li>
+    you can use this <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows" > tutorial</a>
 </ul>
+<br>
+<h2>live</h2>
+<ul>
+  <li> web <a href="https://descargarbot.com" > DescargarBot.com</a></li>
+  <li> Telegram Bot <a href="https://t.me/xDescargarBot" > Telegram DescargarBot</a></li>
+</ul> 
