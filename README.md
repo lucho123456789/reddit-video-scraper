@@ -58,6 +58,6 @@
   <li> <h3> Linux </h3> </li>
   <code> sudo apt install ffmpeg </code>
   <li> <h3>MacOS</h3> </li>
-    [Follow this [tut](https://www.google.com)](https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/)
+    [tut](https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/)
   <li> <h3>Windows</h3> </li>
 </ul>
