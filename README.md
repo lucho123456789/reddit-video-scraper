@@ -51,9 +51,7 @@
 <ul>
 <li><h3>requests</h3></li>
   <code>pip install requests</code><br>
-  <code> # if you are going to use socks4/socks5
-         pip install -U 'requests[socks]'
-  </code>
+  <code> pip install -U 'requests[socks]' # if you are going to use socks4/socks5</code>
   <br>
 <li> <h3>FFmpeg </h3></li>
   <ul>
