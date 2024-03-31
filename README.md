@@ -63,8 +63,8 @@
     you can use this <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows" > tutorial</a>
 </ul>
 <br>
-<h2>live</h2>
+<h2>online</h2>
 <ul>
   <li> web 🤖 <a href="https://descargarbot.com" >  DescargarBot.com</a></li>
-  <li> Telegram Bot 🤖<a href="https://t.me/xDescargarBot" > DescargarBot</a></li>
+  <li> Telegram Bot 🤖 <a href="https://t.me/xDescargarBot" > DescargarBot</a></li>
 </ul> 
