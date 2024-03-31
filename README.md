@@ -48,12 +48,13 @@
 </code>
 
 <h2>installing dependencies</h2>
-      <h3>requests</h3>
 <ul>
+<li><h3>requests</h3></li>
+  <code>pip install requests</code>
+<li> FFmpeg </li>
+  <ul>
   <li> <h3> Linux </h3> </li>
   <code> pip install requests </code>
-  <br>
-  <br>
   <li> <h3>MacOS</h3> </li>
   <li> <h3>Windows</h3> </li>
 </ul>
