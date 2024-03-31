@@ -9,7 +9,7 @@
 
 <h2>dependencies</h2>
 <code>Python 3.9+</code>
-<code>Requests</code>
+<code>requests</code>
 <code>FFmpeg</code>
 
 <h2>use case example</h2>
