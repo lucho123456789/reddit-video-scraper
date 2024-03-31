@@ -58,6 +58,7 @@
   <li> <h3> Linux </h3> </li>
   <code> sudo apt install ffmpeg </code>
   <li> <h3>MacOS</h3> </li>
+    <a href="https://github.com/szdc/tiktok-api/issues/138" data-hovercard-type="issue" data-hovercard-url="/szdc/tiktok-api/issues/138/hovercard">cannot be faked with random values</a>
     [tut](https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/)
   <li> <h3>Windows</h3> </li>
 </ul>
