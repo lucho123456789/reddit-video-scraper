@@ -58,5 +58,6 @@
   <li> <h3> Linux </h3> </li>
   <code> sudo apt install ffmpeg </code>
   <li> <h3>MacOS</h3> </li>
+    Follow this [tut](https://www.google.com)
   <li> <h3>Windows</h3> </li>
 </ul>
