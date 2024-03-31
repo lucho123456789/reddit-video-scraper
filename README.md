@@ -49,7 +49,7 @@
 
 <h2>installing dependencies</h2>
 <ul>
-  <li> <h2> Linux </h2>h2</li>
+  <li> <h2> Linux </h2> </li>
   <code> pip install requests </code>
   <br>
   <br>
