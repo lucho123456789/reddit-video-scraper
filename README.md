@@ -50,8 +50,11 @@
 <h2>installing dependencies</h2>
 <ul>
 <li><h3>requests</h3></li>
-  <code>pip install requests</code>
-  <br><br>
+  <code>pip install requests</code><br>
+  <code> # if you are going to use socks4/socks5
+         pip install -U 'requests[socks]'
+  </code>
+  <br>
 <li> <h3>FFmpeg </h3></li>
   <ul>
   <li> <h3> Linux </h3> </li>
