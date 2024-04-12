@@ -16,7 +16,7 @@
 <ul>
 <li><h3>requests</h3></li>
   <code>pip install requests</code><br>
-  <code>pip install -U 'requests[socks]'  #if you are going to use socks4/socks5 proxies</code>
+  <code>pip install -U 'requests[socks]'</code>
   <br>
 <li> <h3>FFmpeg </h3></li>
   <ul>
