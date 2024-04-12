@@ -11,7 +11,23 @@
 <code>Python 3.9+</code>
 <code>requests</code>
 <code>FFmpeg</code>
-
+<br>
+<h2>install dependencies</h2>
+<ul>
+<li><h3>requests</h3></li>
+  <code>pip install requests</code><br>
+  <code>pip install -U 'requests[socks]'  #if you are going to use socks4/socks5 proxies</code>
+  <br>
+<li> <h3>FFmpeg </h3></li>
+  <ul>
+  <li> <h3> Linux </h3> </li>
+  <code> sudo apt install ffmpeg </code>
+  <li> <h3>MacOS</h3> </li>
+    you can use this <a href="https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/" > tutorial</a>
+  <li> <h3>Windows</h3> </li>
+    you can use this <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows" > tutorial</a>
+</ul>
+<br>
 <h2>use case example</h2>
 <code>
 
@@ -46,22 +62,6 @@
 
     reddit_video.reddit_session.close()
 </code>
-
-<h2>installing dependencies</h2>
-<ul>
-<li><h3>requests</h3></li>
-  <code>pip install requests</code><br>
-  <code>pip install -U 'requests[socks]'  #if you are going to use socks4/socks5 proxies</code>
-  <br>
-<li> <h3>FFmpeg </h3></li>
-  <ul>
-  <li> <h3> Linux </h3> </li>
-  <code> sudo apt install ffmpeg </code>
-  <li> <h3>MacOS</h3> </li>
-    you can use this <a href="https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/" > tutorial</a>
-  <li> <h3>Windows</h3> </li>
-    you can use this <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows" > tutorial</a>
-</ul>
 <br>
 <h2>online</h2>
 <ul>
