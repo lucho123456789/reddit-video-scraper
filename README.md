@@ -12,7 +12,7 @@
 <code>requests</code>
 <code>FFmpeg</code>
 <br>
-<h2>install dependencies</h2>
+<h2>+install dependencies</h2>
 <ul>
 <li><h3>requests</h3></li>
   <code>pip install requests</code><br>
@@ -26,11 +26,10 @@
     you can use this <a href="https://bbc.github.io/bbcat-orchestration-docs/installation-mac-manual/" > tutorial</a>
   <li> <h3>Windows</h3> </li>
     you can use this <a href="https://www.wikihow.com/Install-FFmpeg-on-Windows" > tutorial</a>
-</ul>
-<br>
-<h2>use case example</h2>
-<code>
 
+<br>
+<h2>+use case example</h2>
+<code>
     #import the class RedditVideoScraper
     from reddit_video_scraper import RedditVideoScraper
     
@@ -63,9 +62,10 @@
     reddit_video.reddit_session.close()
 </code>
 <br>
-<h2>online</h2>
+<h2>+online</h2>
 <ul>
   ⤵
   <li> web 🤖 <a href="https://descargarbot.com" >  DescargarBot.com</a></li>
   <li> Telegram Bot 🤖 <a href="https://t.me/xDescargarBot" > DescargarBot</a></li>
 </ul> 
+</ul>
